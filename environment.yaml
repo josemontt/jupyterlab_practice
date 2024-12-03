@@ -4,4 +4,6 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
+  - numpy
+  - python
 prefix: C:\Users\montt\miniconda3\envs\env-assignment-07
