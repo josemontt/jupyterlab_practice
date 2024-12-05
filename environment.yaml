@@ -1,0 +1,9 @@
+name: env-assignment-07
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - python
+prefix: C:\Users\montt\miniconda3\envs\env-assignment-07
